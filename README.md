@@ -2,7 +2,7 @@
 
 - Be welcome to a Data Analyst begginner Git. 
 
-- It'll be a pleassure share every moment whith you.
+- It'll be a pleassure share every moment with you.
 
 - See you soon...
 
