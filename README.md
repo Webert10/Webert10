@@ -1,8 +1,8 @@
 - Hi Coworkers !!
 
-- Be welcome to a Data Analyst begginner Git. 
+- Welcome to the Git of a Beginner Data Analyst.
 
-- It'll be a pleassure share every moment with you.
+- It'll be a pleassure share every moment with you here.
 
 - See you soon...
 
